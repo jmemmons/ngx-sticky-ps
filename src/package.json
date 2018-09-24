@@ -1,0 +1,26 @@
+{
+  "name": "ngx-sticky-ps",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmemmons/ngx-sticky-ps"
+  },
+  "author": {
+    "name": "John Emmons",
+    "email": "emmons.johnm@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmemmons/ngx-sticky-ps/issues"
+  },
+  "module": "ngx-sticky-ps.js",
+  "typings": "ngx-sticky-ps.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
